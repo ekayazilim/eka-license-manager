@@ -7,7 +7,7 @@ class EkaDatabaseConfig {
             'host' => '127.0.0.1',
             'dbname' => 'eka_license_manager',
             'user' => 'root',
-            'password' => 'ServBay.dev',
+            'password' => '',
             'charset' => 'utf8mb4'
         ];
     }
